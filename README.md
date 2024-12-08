@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="left"># Hi there! 👋<br><br>I'm Patel Het, a passionate 3rd-year undergraduate student studying Computer Science and Engineering at IIT Ropar.<br><br>## About Me<br><br>- 🔭 I’m currently working on honing my skills in software development.<br>- 🌱 I’m constantly learning and exploring new technologies.<br>- 👯 I enjoy collaborating with others and contributing to innovative projects.<br>- 📫 How to reach me: [Email](mailto:hetrpatel03@gmail.com) | [LinkedIn](https://linkedin.com/in/patel-het-ab2868228)<br>- ⚡ Fun fact: I'm also a competitive programmer and a football enthusiast!</h4>
+<h4 align="left"># Hi there! 👋<br><br>I'm Patel Het, a passionate 4th-year undergraduate student studying Computer Science and Engineering at IIT Ropar.<br><br>## About Me<br><br>- 🔭 I’m currently working on honing my skills in software development.<br>- 🌱 I’m constantly learning and exploring new technologies.<br>- 👯 I enjoy collaborating with others and contributing to innovative projects.<br>- 📫 How to reach me: [Email](mailto:hetrpatel03@gmail.com) | [LinkedIn](https://linkedin.com/in/patel-het-ab2868228)<br>- ⚡ Fun fact: I'm also a competitive programmer and a football enthusiast!</h4>
 
 ###
 
